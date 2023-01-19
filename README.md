@@ -1,4 +1,7 @@
-### Hi there 👋
+### Contact me
+
++ [t.me/kipparis](https://t.me/kipparis)
++ keepintine@gmail.com
 
 <!--
 **Kipparis/Kipparis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
